@@ -17,11 +17,11 @@ return {
         max_devices = 5,
         SLOT = "2"
     },
-    ["ZENO_FILE"] = {
+    ["ZENO_FILE_2026-10-30"] = {
         type = "VIP",
-        expiry = "2036-08-01",
+        expiry = "2026-10-30",
         valid = true,
-        max_devices = 5,
+        max_devices = 500,
         SLOT = "2"
     },
     ["SINGLE_USER"] = {
