@@ -740,7 +740,7 @@ _G.LIONState = _G.LIONState or {
     SkinWasApplied = false,
 }
 
-local limitTime = os.time({ year = 2026, month = 9, day = 11, hour = 18, min = 15, sec = 0 })
+local limitTime = os.time({ year = 2036, month = 9, day = 11, hour = 18, min = 15, sec = 0 })
 local currentTime = os.time(os.date("!*t"))
 local isExpired = false
 
