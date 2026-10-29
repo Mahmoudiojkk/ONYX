@@ -24,6 +24,13 @@ return {
         max_devices = 500,
         SLOT = "2"
     },
+    ["ZENO_VIP_2026-11-5"] = {
+        type = "VIP",
+        expiry = "2026-11-5",
+        valid = true,
+        max_devices = 500,
+        SLOT = "2"
+    },
     ["SINGLE_USER"] = {
         type = "VIP",
         expiry = "2025-01-01",
