@@ -10,9 +10,9 @@ return {
         max_devices = 100000,
         SLOT = "1"
     },
-    ["DEMO123"] = {
+    ["ZENO_VIP"] = {
         type = "DEMO",
-        expiry = "2026-08-01",
+        expiry = "2026-11-11",
         valid = true,
         max_devices = 5,
         SLOT = "2"
