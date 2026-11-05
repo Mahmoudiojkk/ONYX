@@ -5,7 +5,7 @@
 return {
     ["ZENO"] = {
         type = "VIP",
-        expiry = "2026-11-5",
+        expiry = "2026-11-10",
         valid = true,
         max_devices = 100000,
         SLOT = "1"
